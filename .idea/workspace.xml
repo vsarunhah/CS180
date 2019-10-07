@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e74c4710-0e9d-4ca2-a35c-1ea05d6c4ddf" name="Default Changelist" comment="" />
+    <list default="true" id="e74c4710-0e9d-4ca2-a35c-1ea05d6c4ddf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 1/Project 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 1/src/WordSearcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 1/src/WordSearcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 1/src/testall" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2/src/CARD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2/src/COLOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2/src/Uno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2/src/UnoCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1a/Q1a.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1a/src/Consonant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1b/Q1b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1b/src/Divisible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1c/Q1c.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1c/src/WordSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1d/Q1d.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1d/src/MathOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q2/Q2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q2/src/Rot13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q3/Q3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q3/src/PrimeCountdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/cs18000-fa19-practice-midterm-exam-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bookstore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CareerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cartesian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsernameGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS180/BusinessCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS180/BusinessCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BusinessCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BusinessCard.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +51,32 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Pjpe6XlMuPo7I4uF3PPJy77GV3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\varun\IdeaProjects\CS180\Project 1\src" />
+      <recent name="C:\Users\varun\IdeaProjects\CS180\src" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.codeCheck">
     <configuration name="BusinessCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BusinessCard" />
       <module name="CS180" />
@@ -36,8 +97,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CareerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CareerTest" />
+      <module name="CS180" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+      <module name="CS180" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordSearcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordSearcher" />
+      <module name="Project 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeCheck" />
+      <module name="CS180" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.codeCheck" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.WordSearcher" />
+        <item itemvalue="Application.CareerTest" />
         <item itemvalue="Application.BusinessCard" />
       </list>
     </recent_temporary>
@@ -51,5 +144,60 @@
       <updated>1566397451694</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Bookstore.java</url>
+          <line>45</line>
+          <properties class="Bookstore" method="lookUpName">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bookstore.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bookstore.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bookstore.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bookstore.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bookstore.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

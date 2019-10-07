@@ -21,7 +21,7 @@ public class BusinessCard {
         int age = 2019 - byear; //Calculating age using 2019
 
         System.out.print("Enter your GPA: "); //Prompting the user for their GPA
-        DecimalFormat df = new DecimalFormat("#.00");
+        DecimalFormat df = new DecimalFormat("0.00");
         String GPA = df.format(s.nextDouble()); //Taking GPA input and formatting to 2 decimal places
 
 
@@ -31,7 +31,7 @@ public class BusinessCard {
         System.out.print("Enter your email: "); //Prompting the user for their email address
         String email = s.nextLine(); //Taking email input
 
-        //delineate between input print statements and output print statements. Helps clear the console. 
+        //delineate between input print statements and output print statements. Helps clear the console.
         System.out.println(" ");
         System.out.println(" ");
         System.out.println(" ");
