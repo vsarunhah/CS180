@@ -7,43 +7,53 @@ public class UnoCard {
 
     public UnoCard() {
         Random rand = new Random();
-        color = COLOR.values()[rand.nextInt(5)];
-        card = CARD.values()[rand.nextInt(15)];
+        int card = rand.nextInt(15);
+        int color = rand.nextInt(4);
+        this.card = CARD.values()[card];
+        this.color = COLOR.values()[color];
     }
 
-    public UnoCard(COLOR color, CARD card) {
+    public UnoCard(int cardB) {
+        Random rand = new Random();
+        int card = rand.nextInt(cardB);
+        int color = rand.nextInt(4);
+        this.card = CARD.values()[card];
+        this.color = COLOR.values()[color];
+    }
+
+    public UnoCard(CARD card, COLOR color) {
         this.color = color;
         this.card = card;
     }
 
     public boolean isWild() {
-        return card.equals(CARD.WILD);
+        return this.card.equals(CARD.WILD);
     }
 
     public boolean isWildDraw4() {
-        return card.equals(CARD.WILD_DRAW4);
+        return this.card.equals(CARD.WILD_DRAW4);
     }
 
     public boolean isDraw2() {
-        return card.equals(CARD.DRAW_2);
+        return this.card.equals(CARD.DRAW_2);
     }
 
     public boolean isReverse() {
-        return card.equals(CARD.REVERSE);
+        return this.card.equals(CARD.REVERSE);
     }
 
     public boolean isSkip() {
-        return card.equals(CARD.SKIP);
+        return this.card.equals(CARD.SKIP);
     }
 
     public boolean isPlayable(UnoCard nextCard) {
-        if (isWild() || isWildDraw4()){
+        if (nextCard.card.equals(this.card)) {
             return true;
         }
-        if(nextCard.card.equals(this.card) || nextCard.color.equals(this.color)){
+        if (nextCard.card.equals(CARD.WILD_DRAW4) || nextCard.card.equals(CARD.WILD)) {
             return true;
         }
-        return false;
+        return nextCard.color.equals(this.color);
     }
 
 }

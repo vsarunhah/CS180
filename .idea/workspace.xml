@@ -2,44 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e74c4710-0e9d-4ca2-a35c-1ea05d6c4ddf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 1/Project 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 1/src/WordSearcher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 1/src/WordSearcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 1/src/testall" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2/src/CARD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2/src/COLOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2/src/Uno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2/src/UnoCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1a/Q1a.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1a/src/Consonant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1b/Q1b.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1b/src/Divisible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1c/Q1c.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1c/src/WordSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1d/Q1d.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1d/src/MathOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q2/Q2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q2/src/Rot13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q3/Q3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q3/src/PrimeCountdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/cs18000-fa19-practice-midterm-exam-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bookstore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CareerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cartesian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UsernameGen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 7/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 7/ColorApproximation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 7/ColorEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 7/UnsupportedColorSpectrumException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 8/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 8/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 8/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 8/ThreeDimensionalShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 8/UnexpectedSideLengthException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 8/BookInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 8/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 8/FileDebug.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS180/BusinessCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS180/BusinessCard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BusinessCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BusinessCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 2/src/Uno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project 2/src/Uno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 2/src/UnoCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project 2/src/UnoCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS180/Bookstore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS180/Bookstore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS180/codeCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS180/codeCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 6/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bookstore.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 6/Bookstore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BusinessCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 1/BusinessCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CareerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/CareerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cartesian.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 5/Cartesian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 4/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polar.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 5/Polar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UsernameGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 2/UsernameGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeCheck.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,12 +38,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Varun Shah &lt;varunshah660@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Pjpe6XlMuPo7I4uF3PPJy77GV3" />
@@ -65,16 +59,21 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\varun\IdeaProjects\CS180\Lab 8" />
+      <recent name="C:\Users\varun\IdeaProjects\CS180\HW 8" />
+      <recent name="C:\Users\varun\IdeaProjects\CS180\HW 7" />
+      <recent name="C:\Users\varun\IdeaProjects\CS180\HW 6" />
+      <recent name="C:\Users\varun\IdeaProjects\CS180\HW 5" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\varun\IdeaProjects\CS180\Project 1\src" />
-      <recent name="C:\Users\varun\IdeaProjects\CS180\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -89,31 +88,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.codeCheck">
-    <configuration name="BusinessCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BusinessCard" />
+  <component name="RunManager" selected="Application.Uno">
+    <configuration name="ColorEngine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ColorEngine" />
       <module name="CS180" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CareerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CareerTest" />
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
       <module name="CS180" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+    <configuration name="FileDebug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileDebug" />
       <module name="CS180" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordSearcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WordSearcher" />
-      <module name="Project 1" />
+    <configuration name="Uno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uno" />
+      <module name="Project 2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Uno" />
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.FileDebug" />
         <item itemvalue="Application.codeCheck" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.WordSearcher" />
-        <item itemvalue="Application.CareerTest" />
-        <item itemvalue="Application.BusinessCard" />
+        <item itemvalue="Application.ColorEngine" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +142,14 @@
       <option name="presentableId" value="Default" />
       <updated>1566397451694</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding work done until 10/7/19">
+      <created>1570477734254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570477734254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,12 +167,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Adding work done until 10/7/19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding work done until 10/7/19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Bookstore.java</url>
+          <url>file://$PROJECT_DIR$/HW 6/Bookstore.java</url>
           <line>45</line>
           <properties class="Bookstore" method="lookUpName">
             <option name="EMULATED" value="true" />
@@ -173,27 +182,27 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Bookstore.java</url>
+          <url>file://$PROJECT_DIR$/HW 6/Bookstore.java</url>
           <line>48</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Bookstore.java</url>
+          <url>file://$PROJECT_DIR$/HW 6/Bookstore.java</url>
           <line>49</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Bookstore.java</url>
+          <url>file://$PROJECT_DIR$/HW 6/Bookstore.java</url>
           <line>51</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Bookstore.java</url>
+          <url>file://$PROJECT_DIR$/HW 6/Bookstore.java</url>
           <line>52</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Bookstore.java</url>
+          <url>file://$PROJECT_DIR$/HW 6/Bookstore.java</url>
           <line>47</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
