@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Q1a/Q1a.iml" filepath="$PROJECT_DIR$/Q1a/Q1a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q1b/Q1b.iml" filepath="$PROJECT_DIR$/Q1b/Q1b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q1c/Q1c.iml" filepath="$PROJECT_DIR$/Q1c/Q1c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q1d/Q1d.iml" filepath="$PROJECT_DIR$/Q1d/Q1d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q2/Q2.iml" filepath="$PROJECT_DIR$/Q2/Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q3/Q3.iml" filepath="$PROJECT_DIR$/Q3/Q3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-2.iml" filepath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-2.iml" />
+    </modules>
+  </component>
+</project>

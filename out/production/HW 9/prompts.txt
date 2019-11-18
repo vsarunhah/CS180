@@ -1,0 +1,15 @@
+Welcome! Input the file you would like to process: 
+Here is your selected file's language information: 
+-----
+It is platform independent.
+It is not platform independent.
+The compiler was last updated in /*Insert compiler age here */.
+Error, invalid language!
+C is a small language and provides programmers with low-level control.
+C allows programmers to perform potentially dangerous actions with few checks.
+C++ brings together low-level management with high-level object-oriented features.
+C++ is a large, complex language and requires manual memory management.
+Java is a general purpose object-oriented language, making it well suited for most general development.
+Because Java is run on a virtual machine, it can be slower than other languages.
+Python has simple syntax and is easily extensible.
+Python is slower than other languages and not suited for mobile development.

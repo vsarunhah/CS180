@@ -1,33 +1,178 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e74c4710-0e9d-4ca2-a35c-1ea05d6c4ddf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HW 7/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW 7/ColorApproximation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW 7/ColorEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW 7/UnsupportedColorSpectrumException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW 8/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW 8/Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW 8/Sphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW 8/ThreeDimensionalShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW 8/UnexpectedSideLengthException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 8/BookInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 8/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 8/FileDebug.java" afterDir="false" />
+    <list default="true" id="e74c4710-0e9d-4ca2-a35c-1ea05d6c4ddf" name="Default Changelist" comment="Organized java files into specific homework files.">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW 9/src/AccessoryMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW 9/src/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW 9/src/CPlusPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW 9/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW 9/src/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW 9/src/ProgrammingLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW 9/src/Python.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW 9/src/prompts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW10/src/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW11/src/CountdownClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW11/src/CountdownRequestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW11/src/CountdownRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW11/src/CountdownServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW12/src/WorldClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/Practice Exam 2/Practice Exam 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/Q3/Q3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/cs18000-fa19-practice-midterm-exam-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1a/Q1a.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1a/src/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1a/src/CollegeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1b/Q1b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1b/src/TableInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1b/src/TableInsertionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1c/Q1c.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1c/src/FileInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1c/src/FileInsertionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1d/Q1d.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1d/src/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1d/src/AppleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1d/src/Bagel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1d/src/BagelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1d/src/Consumable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1d/src/Croissant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1d/src/CroissantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1d/src/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q1d/src/FoodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q2/Q2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q2/src/Condo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q2/src/CondoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q2/src/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q2/src/HomeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q2/src/Studio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q2/src/StudioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q2/src/Townhouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q2/src/TownhouseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/Q3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/src/Amphibian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/src/AmphibianTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/src/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/src/Capybara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/src/CapybaraTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/src/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/src/FrogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/src/Iguana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/src/IguanaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/src/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/src/MammalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/src/Reptile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/Q3/src/ReptileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-2/cs18000-fa19-practice-midterm-exam-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 1/Project 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 2/Project 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/Project 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Cafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/CafeUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Consumable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Employable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/FoodProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Identifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Roast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Sellable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 3/src/Yeet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 4/Project 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 4/src/AudioFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 4/src/CommonFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 4/src/FileManipulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 4/src/ImageFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 4/src/InvalidAudioFileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 4/src/InvalidFileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 4/src/InvalidImageFileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 4/src/InvalidTextFileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 4/src/InvalidVideoFileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 4/src/TextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 4/src/UnknownFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 4/src/VideoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/Project 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/src/Airline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/src/Alaska.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/src/BoardingPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/src/Delta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/src/Gate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/src/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/src/ReservationClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/src/ReservationServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/src/Southwest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RollingRockSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RollingRockSimulationThing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project 2/src/Uno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project 2/src/Uno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project 2/src/UnoCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project 2/src/UnoCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS180/Bookstore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS180/Bookstore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS180/codeCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS180/codeCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 6/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bookstore.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 6/Bookstore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BusinessCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 1/BusinessCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CareerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/CareerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cartesian.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 5/Cartesian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 4/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polar.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 5/Polar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UsernameGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW 2/UsernameGen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 1/BusinessCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 1/BusinessCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 2/UsernameGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 2/UsernameGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 3/CareerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 3/CareerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 4/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 4/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 5/Cartesian.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 5/Cartesian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 5/Polar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 5/Polar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 6/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 6/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 6/Bookstore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 6/Bookstore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 7/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 7/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 7/ColorApproximation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 7/ColorApproximation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 7/ColorEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 7/ColorEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 7/UnsupportedColorSpectrumException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 7/UnsupportedColorSpectrumException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 8/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 8/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 8/Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 8/Pyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 8/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 8/Sphere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 8/ThreeDimensionalShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 8/ThreeDimensionalShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 8/UnexpectedSideLengthException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 8/UnexpectedSideLengthException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1/Project 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 9/HW 9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1/src/WordSearcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project 1/src/WordSearcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1/src/WordSearcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project 1/src/WordSearcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1/src/testall" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project 1/src/testall" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 2/Project 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW10/HW10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 2/src/CARD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project 2/src/CARD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 2/src/COLOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project 2/src/COLOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 2/src/Uno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project 2/src/Uno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 2/src/UnoCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project 2/src/UnoCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/Practice Exam 2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1a/Q1a.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW11/HW11.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1a/src/Consonant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/Q1a/src/Consonant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1b/Q1b.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW12/HW12.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1b/src/Divisible.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/Q1b/src/Divisible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1c/Q1c.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/Q1a/Q1a.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1c/src/WordSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/Q1c/src/WordSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1d/Q1d.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/Q1b/Q1b.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q1d/src/MathOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/Q1d/src/MathOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q2/Q2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/Q1c/Q1c.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q2/src/Rot13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/Q2/src/Rot13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q3/Q3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/Q1d/Q1d.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/Q3/src/PrimeCountdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/Q3/src/PrimeCountdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/cs18000-fa19-practice-midterm-exam-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/Q2/Q2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/out/production/Q1a/Consonant.class" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/out/production/Q1a/Consonant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/out/production/Q1b/Divisible.class" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/out/production/Q1b/Divisible.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/out/production/Q1c/WordSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/out/production/Q1c/WordSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/out/production/Q1d/MathOps.class" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/out/production/Q1d/MathOps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/out/production/Q2/Rot13.class" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/out/production/Q2/Rot13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1/out/production/Q3/PrimeCountdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Midterm/cs18000-fa19-practice-midterm-exam-1/out/production/Q3/PrimeCountdown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS180/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS180/Bookstore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS180/BusinessCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS180/CareerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS180/Cartesian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS180/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS180/Polar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS180/UsernameGen.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,17 +205,20 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\varun\IdeaProjects\CS180\Lab 8" />
-      <recent name="C:\Users\varun\IdeaProjects\CS180\HW 8" />
-      <recent name="C:\Users\varun\IdeaProjects\CS180\HW 7" />
-      <recent name="C:\Users\varun\IdeaProjects\CS180\HW 6" />
-      <recent name="C:\Users\varun\IdeaProjects\CS180\HW 5" />
+      <recent name="C:\Users\varun\IdeaProjects\CS180\Projects" />
+      <recent name="C:\Users\varun\IdeaProjects\CS180\Homework\HW12\src" />
+      <recent name="C:\Users\varun\IdeaProjects\CS180\Homework\HW12" />
+      <recent name="C:\Users\varun\IdeaProjects\CS180\Homework" />
+      <recent name="C:\Users\varun\IdeaProjects\CS180\Homework\HW11\src" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -88,49 +236,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Uno">
-    <configuration name="ColorEngine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ColorEngine" />
+  <component name="RunManager" selected="Application.WorldClock">
+    <configuration name="CountdownClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountdownClient" />
+      <module name="HW11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileManipulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileManipulator" />
+      <module name="Project 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RollingRockSimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RollingRockSimulation" />
       <module name="CS180" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Driver" />
+    <configuration name="RollingRockSimulationThing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RollingRockSimulationThing" />
       <module name="CS180" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileDebug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileDebug" />
-      <module name="CS180" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Uno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Uno" />
-      <module name="Project 2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="codeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeCheck" />
-      <module name="CS180" />
+    <configuration name="WorldClock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WorldClock" />
+      <module name="HW12" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Uno" />
-        <item itemvalue="Application.Driver" />
-        <item itemvalue="Application.FileDebug" />
-        <item itemvalue="Application.codeCheck" />
-        <item itemvalue="Application.ColorEngine" />
+        <item itemvalue="Application.WorldClock" />
+        <item itemvalue="Application.RollingRockSimulation" />
+        <item itemvalue="Application.RollingRockSimulationThing" />
+        <item itemvalue="Application.FileManipulator" />
+        <item itemvalue="Application.CountdownClient" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570477734254</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Organized java files into specific homework files.">
+      <created>1571670935991</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571670935991</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,13 +323,16 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Adding work done until 10/7/19" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding work done until 10/7/19" />
+    <MESSAGE value="Organized java files into specific homework files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Organized java files into specific homework files." />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/HW 6/Bookstore.java</url>
+          <url>file://$PROJECT_DIR$/Homework/HW 6/Bookstore.java</url>
           <line>45</line>
           <properties class="Bookstore" method="lookUpName">
             <option name="EMULATED" value="true" />
@@ -182,27 +340,27 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/HW 6/Bookstore.java</url>
+          <url>file://$PROJECT_DIR$/Homework/HW 6/Bookstore.java</url>
           <line>48</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/HW 6/Bookstore.java</url>
+          <url>file://$PROJECT_DIR$/Homework/HW 6/Bookstore.java</url>
           <line>49</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/HW 6/Bookstore.java</url>
+          <url>file://$PROJECT_DIR$/Homework/HW 6/Bookstore.java</url>
           <line>51</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/HW 6/Bookstore.java</url>
+          <url>file://$PROJECT_DIR$/Homework/HW 6/Bookstore.java</url>
           <line>52</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/HW 6/Bookstore.java</url>
+          <url>file://$PROJECT_DIR$/Homework/HW 6/Bookstore.java</url>
           <line>47</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1763b7c0-26ec-4d1f-a042-64cf568c61e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 9/HW 9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 9/src/AccessoryMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 9/src/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 9/src/CPlusPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 9/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 9/src/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 9/src/ProgrammingLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 9/src/Python.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 9/src/prompts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW10/HW10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW10/src/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice Exam 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/Project 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Cafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/CafeUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Consumable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Employable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/FoodProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Identifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Roast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Sellable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 3/src/Yeet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1a/Q1a.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1a/src/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1a/src/CollegeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1b/Q1b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1b/src/TableInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1b/src/TableInsertionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1c/Q1c.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1c/src/FileInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1c/src/FileInsertionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1d/Q1d.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1d/src/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1d/src/AppleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1d/src/Bagel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1d/src/BagelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1d/src/Consumable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1d/src/Croissant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1d/src/CroissantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1d/src/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1d/src/FoodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/Q2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/Condo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/CondoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/HomeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/Studio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/StudioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/Townhouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/TownhouseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/Q3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/Amphibian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/AmphibianTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/Capybara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/CapybaraTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/FrogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/Iguana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/IguanaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/MammalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/Reptile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/ReptileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs18000-fa19-practice-midterm-exam-2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Shn0Goz4ltZZJ09rq2F5HTiDND" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice Exam 2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Q3/src" />
+      <recent name="$PROJECT_DIR$/Q2/src" />
+      <recent name="$PROJECT_DIR$/Q1d/src" />
+      <recent name="$PROJECT_DIR$/Q1c/src" />
+      <recent name="$PROJECT_DIR$/Q1b/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TownhouseTest">
+    <configuration name="CondoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Q2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CondoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoodTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Q1d" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FoodTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Q2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HomeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Q2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StudioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TownhouseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Q2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TownhouseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TownhouseTest" />
+        <item itemvalue="JUnit.StudioTest" />
+        <item itemvalue="JUnit.HomeTest" />
+        <item itemvalue="JUnit.CondoTest" />
+        <item itemvalue="JUnit.FoodTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1763b7c0-26ec-4d1f-a042-64cf568c61e0" name="Default Changelist" comment="" />
+      <created>1572024470936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572024470936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="301" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1572025050020">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="344" y="301" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.800@0.0.1280.800" timestamp="1572025050020" />
+    <state x="17" y="22" key="new project wizard" timestamp="1572024519928">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="17" y="22" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1572024519928" />
+  </component>
+</project>
